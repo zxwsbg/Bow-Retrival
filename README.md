@@ -3,6 +3,8 @@ BOW algorithm based on color histogram.
 
 中文教程： https://blog.csdn.net/zxwsbg/article/details/97681139
 
+个人网站： https://zxwsbg.cn
+
 ## Introduction
 
 > An image retrival method based on Bag-of-words model using color histogram.
