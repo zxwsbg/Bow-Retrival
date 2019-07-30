@@ -48,10 +48,10 @@ BOW algorithm based on color histogram.
 
 ## How to contribute
 
-* 1. Fork the reposity
-* 2. Create Branch
-* 3. Commit your code
-* 4. Create Pull Request
+* Fork the reposity
+* Create Branch
+* Commit your code
+* Create Pull Request
 
 
 
